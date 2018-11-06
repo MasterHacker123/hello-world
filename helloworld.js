@@ -12,6 +12,6 @@ function hb() {
 }
 
 function hs() {
-  var stuff = prompt("Please enter your name:")
+  var stuff = prompt("Please enter your name:");
   alert("Hello " + stuff);
 }
